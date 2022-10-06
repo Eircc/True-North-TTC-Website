@@ -1,7 +1,3 @@
 # Website for True North TTC
 
-Description Here!
-
-## Subheader
-
-oasidjfasidhfusadha
+By: Eric, James, and Zifan
