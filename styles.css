@@ -80,8 +80,8 @@ header ul li a.active {
     position: relative;
     padding: 0;
     margin: 0;
-    width: 100%;
-    height: 100vh;
+    width: 80%;
+    height: 80vh;
     background: #03ecfc;
     box-shadow: 0 0 5px 3px #03ecfc;
 }
