@@ -63,15 +63,119 @@ header ul li a.active {
 .sec {
     top: 0;
     left: 0;
-    height: 100vh;
+    height: 90vh;
     position: relative;
     display: flex;
-    padding: 100px;
+    padding: 0px;
     background: #1c0522;
 }
 
-.sec h2 {
+.coachestitle {
+    width: 100%;
+    height: 10vh;
+    position: absolute;
+}
+
+.coachestitle h2 {
     font-size: 3.5em;
     margin-bottom: 10px;
     color: #fff;
+    padding: 30px 80px;
+}
+
+.coachpics {
+    width: 100%;
+    height: 50vh;
+    top: 20vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.coachpics img#hongtaochen {
+    width: 25%;
+    height: auto;
+    margin-right: 5%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.coachpics img#eugenewang {
+    width: 25%;
+    height: auto;
+    margin-right: 5%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.coachpics img#wisiqian {
+    width: 25%;
+    height: auto;
+    box-shadow: 0 0 30px #fff;
+}
+
+.coachnames {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    color: #fff;
+    display: flex;
+    padding-top: 75vh;
+}
+
+.coachnames h3 {
+    font-size: 1.5em;
+}
+
+.coachnames h3#hongtaochen {
+    padding-left: 13.5%;
+    padding-right: 16%;
+}
+
+.coachnames h3#eugenewang {
+    padding-right: 18.5%;
+}
+
+.coachdescriptions {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    color: #fff;
+    display: flex;
+    padding-top: 81vh;
+}
+
+.coachdescriptions h4 {
+    font-size: 1em;
+}
+
+.coachdescriptions h4#hongtaochen {
+    padding-left: 13.5%;
+    padding-right: 15.5%;
+}
+
+.coachdescriptions h4#eugenewang {
+    padding-right: 16%;
+}
+
+.border {
+    height: 6px;
+}
+
+.sec2 {
+    top: 0;
+    left: 0;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    padding: 0;
+    background: #1c0522;
+}
+
+.athletestitle {}
+
+.athletestitle h2 {
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    color: #fff;
+    padding: 30px 80px;
 }
