@@ -67,6 +67,7 @@ header ul li a.active {
     position: relative;
     display: flex;
     padding: 0px;
+    justify-content: center;
     background: #1c0522;
 }
 
@@ -171,7 +172,9 @@ header ul li a.active {
     background: #1c0522;
 }
 
-.athletestitle {}
+.athletestitle {
+    color: #fff;
+}
 
 .athletestitle h2 {
     font-size: 3.5em;
