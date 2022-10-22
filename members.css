@@ -162,10 +162,10 @@ header ul li a.active {
     height: 6px;
 }
 
-.sec2 {
+.athletes1 {
     top: 0;
     left: 0;
-    height: 100vh;
+    height: 95vh;
     position: relative;
     display: flex;
     padding: 0;
@@ -174,6 +174,8 @@ header ul li a.active {
 
 .athletestitle {
     color: #fff;
+    height: 10vh;
+    position: absolute;
 }
 
 .athletestitle h2 {
@@ -181,4 +183,183 @@ header ul li a.active {
     margin-bottom: 10px;
     color: #fff;
     padding: 30px 80px;
+}
+
+.athletesrow1 {
+    width: 100%;
+    height: 50vh;
+    top: 20vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image1 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.image1 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text1 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1em;
+}
+
+.text1 h4 {
+    font-size: 0.7em;
+}
+
+.image2 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.image2 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text2 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1em;
+}
+
+.text2 h4 {
+    font-size: 0.7em;
+}
+
+.image3 {
+    position: relative;
+    width: 25%;
+}
+
+.image3 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text3 h4 {
+    font-size: 0.7em;
+}
+
+.text3 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1em;
+}
+
+.athletes2 {
+    top: 0;
+    left: 0;
+    height: 95vh;
+    position: relative;
+    display: flex;
+    padding: 0;
+    background: #1c0522;
+}
+
+.athletesrow2 {
+    width: 100%;
+    height: 50vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image4 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.image4 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text4 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1em;
+}
+
+.text4 h4 {
+    font-size: 0.7em;
+}
+
+.image5 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.image5 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text5 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1em;
+}
+
+.text5 h4 {
+    font-size: 0.7em;
+}
+
+.image6 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.image6 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text6 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1em;
+}
+
+.text6 h4 {
+    font-size: 0.7em;
 }
