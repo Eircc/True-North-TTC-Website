@@ -79,7 +79,7 @@ header ul li a.active {
 }
 
 .sec h2 {
-    font-size: 3.5em;
+    font-size: 3.5vw;
     margin-bottom: 10px;
     color: #fff;
 }
@@ -98,7 +98,7 @@ header ul li a.active {
     position: absolute;
     margin-right: 30px;
     color: #fff;
-    font-size: 1.3em;
+    font-size: 1.7vw;
 }
 
 .border {
