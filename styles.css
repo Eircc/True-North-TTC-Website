@@ -143,7 +143,7 @@ header ul li a.active {
 
 .sec p {
     position: absolute;
-    margin-right: 30px;
+    margin-right: 50px;
     color: #fff;
     font-size: 1.7vw;
 }
@@ -165,16 +165,17 @@ header ul li a.active {
 }
 
 .meet img#rubberwall {
-    width: 93%;
+    width: 85%;
     height: 87vh;
+    margin-top: 5vh;
     color: #fff;
     background: #fff;
     box-shadow: 0 0 30px #fff;
 }
 
 .meet a {
-    background: #1c0522;
-    color: #fff;
+    background: #fff;
+    color: #1c0522;
     position: absolute;
     padding: 6px 14px;
     text-decoration: none;
@@ -183,6 +184,6 @@ header ul li a.active {
 }
 
 .meet a:hover {
-    background: #fff;
-    color: #1c0522;
+    background: #1c0522;
+    color: #fff;
 }
