@@ -210,6 +210,7 @@ form {
     flex-direction: column;
     width: 100%;
     gap: 1rem;
+    color: #fff;
 }
 
 input,
@@ -218,6 +219,7 @@ textarea {
     padding: 1.4rem;
     background-color: transparent;
     border: 1px solid #fff;
+    color: #fff;
 }
 
 textarea {
