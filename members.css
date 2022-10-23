@@ -61,11 +61,12 @@ header ul li a.active {
 }
 
 .sec {
+    width: 100%;
     top: 0;
     left: 0;
     height: 90vh;
     position: relative;
-    display: flex;
+    /* display: flex; */
     padding: 0px;
     justify-content: center;
     background: #1c0522;
@@ -168,12 +169,85 @@ header ul li a.active {
     font-size: 1vw;
 }
 
+.sec2 {
+    width: 100%;
+    top: 40vh;
+    left: 0;
+    height: 75vh;
+    position: relative;
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+    background-color: #1c0522;
+}
+
+.coaches2 {
+    width: 100%;
+    height: 50vh;
+    top: 5vh;
+    left: 5vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.coach4 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.coach4 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.coachtext4 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1.5vw;
+}
+
+.coachtext4 h4 {
+    font-size: 1vw;
+}
+
+.coach5 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.coach5 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.coachtext5 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1.5vw;
+}
+
+.coachtext5 h4 {
+    font-size: 1vw;
+}
+
 .border {
     height: 6px;
 }
 
 .athletes1 {
-    top: 0;
+    top: 75vh;
     left: 0;
     height: 95vh;
     position: relative;
@@ -280,9 +354,9 @@ header ul li a.active {
 }
 
 .athletes2 {
-    top: 0;
+    top: 75vh;
     left: 0;
-    height: 95vh;
+    height: 75vh;
     position: relative;
     display: flex;
     padding: 0;
@@ -371,5 +445,100 @@ header ul li a.active {
 }
 
 .text6 h4 {
+    font-size: 0.9vw;
+}
+
+.athletes3 {
+    top: 72vh;
+    left: 0;
+    height: 80vh;
+    position: relative;
+    display: flex;
+    padding: 0;
+    background: #1c0522;
+}
+
+.athletesrow3 {
+    width: 100%;
+    height: 50vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image7 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.image7 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text7 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1.5vw;
+}
+
+.text7 h4 {
+    font-size: 0.9vw;
+}
+
+.image8 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.image8 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text8 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1.5vw;
+}
+
+.text8 h4 {
+    font-size: 0.9vw;
+}
+
+.image9 {
+    position: relative;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.image9 img {
+    width: 100%;
+    box-shadow: 0 0 30px #fff;
+}
+
+.text9 {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 26vw;
+    width: 100%;
+    color: #fff;
+    font-size: 1.5vw;
+}
+
+.text9 h4 {
     font-size: 0.9vw;
 }

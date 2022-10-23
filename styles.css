@@ -18,7 +18,54 @@ body {
     width: 100%;
     height: 100vh;
     padding: 0%;
-    /* background-image: url(images/backgrounds/homepage1.png); */
+    overflow: hidden;
+    display: flex;
+    position: relative;
+    background-image: url(images/backgrounds/james2.jpg);
+    background-size: 100% 100%;
+    animation: slider 35s infinite linear;
+}
+
+@keyframes slider {
+    0% {
+        background-image: url(images/backgrounds/james2.jpg);
+    }
+
+    20% {
+        background-image: url(images/backgrounds/homepage11.png);
+    }
+
+    20% {
+        background-image: url(images/backgrounds/homepage2.png);
+    }
+
+    30% {
+        background-image: url(images/backgrounds/homepage3.png);
+    }
+
+    40% {
+        background-image: url(images/backgrounds/homepage4.png);
+    }
+
+    50% {
+        background-image: url(images/backgrounds/homepage5.png);
+    }
+
+    60% {
+        background-image: url(images/backgrounds/homepage6.png)
+    }
+
+    70% {
+        background-image: url(images/backgrounds/homepage7.png);
+    }
+
+    80% {
+        background-image: url(images/backgrounds/homepage9.png);
+    }
+
+    90% {
+        background-image: url(images/backgrounds/homepage10.png);
+    }
 }
 
 .background {
@@ -32,7 +79,7 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 30px 100px;
+    padding: 30px 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
