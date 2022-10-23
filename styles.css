@@ -28,43 +28,39 @@ body {
 
 @keyframes slider {
     0% {
-        background-image: url(images/backgrounds/james2.jpg);
+        background-image: url(images/backgrounds/james2.jpg), url(images/backgrounds/homepage11.png);
     }
 
     20% {
-        background-image: url(images/backgrounds/homepage11.png);
-    }
-
-    20% {
-        background-image: url(images/backgrounds/homepage2.png);
+        background-image: url(images/backgrounds/homepage11.png), url(images/backgrounds/homepage12.png);
     }
 
     30% {
-        background-image: url(images/backgrounds/homepage3.png);
+        background-image: url(images/backgrounds/homepage12.png), url(images/backgrounds/homepage13.png);
     }
 
     40% {
-        background-image: url(images/backgrounds/homepage4.png);
+        background-image: url(images/backgrounds/homepage13.png), url(images/backgrounds/homepage14.png);
     }
 
     50% {
-        background-image: url(images/backgrounds/homepage5.png);
+        background-image: url(images/backgrounds/homepage14.png), url(images/backgrounds/homepage6.png);
     }
 
     60% {
-        background-image: url(images/backgrounds/homepage6.png)
+        background-image: url(images/backgrounds/homepage6.png), url(images/backgrounds/homepage7.png);
     }
 
     70% {
-        background-image: url(images/backgrounds/homepage7.png);
+        background-image: url(images/backgrounds/homepage7.png), url(images/backgrounds/homepage15.png);
     }
 
     80% {
-        background-image: url(images/backgrounds/homepage9.png);
+        background-image: url(images/backgrounds/homepage15.png), url(images/backgrounds/homepage10.png);
     }
 
     90% {
-        background-image: url(images/backgrounds/homepage10.png);
+        background-image: url(images/backgrounds/homepage10.png), url(images/backgrounds/james2.jpg);
     }
 }
 
