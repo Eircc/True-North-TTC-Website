@@ -23,44 +23,88 @@ body {
     position: relative;
     background-image: url(images/backgrounds/james2.jpg);
     background-size: 100% 100%;
-    animation: slider 35s infinite linear;
+    animation: slider 70s infinite linear;
 }
 
 @keyframes slider {
     0% {
-        background-image: url(images/backgrounds/james2.jpg), url(images/backgrounds/homepage11.png);
+        background-image: url(images/backgrounds/james2.jpg), url(images/backgrounds/homepage17.png);
+    }
+
+    5% {
+        background-image: url(images/backgrounds/homepage17.png), url(images/backgrounds/homepage16.png);
+    }
+
+    10% {
+        background-image: url(images/backgrounds/homepage16.png), url(images/backgrounds/homepage18.png);
+    }
+
+    15% {
+        background-image: url(images/backgrounds/homepage18.png), url(images/backgrounds/homepage11.png);
     }
 
     20% {
-        background-image: url(images/backgrounds/homepage11.png), url(images/backgrounds/homepage12.png);
+        background-image: url(images/backgrounds/homepage11.png), url(images/backgrounds/homepage19.png);
+    }
+
+    25% {
+        background-image: url(images/backgrounds/homepage19.png), url(images/backgrounds/homepage12.png);
     }
 
     30% {
-        background-image: url(images/backgrounds/homepage12.png), url(images/backgrounds/homepage13.png);
+        background-image: url(images/backgrounds/homepage12.png), url(images/backgrounds/homepage20.png);
+    }
+
+    35% {
+        background-image: url(images/backgrounds/homepage20.png), url(images/backgrounds/homepage13.png);
     }
 
     40% {
-        background-image: url(images/backgrounds/homepage13.png), url(images/backgrounds/homepage14.png);
+        background-image: url(images/backgrounds/homepage13.png), url(images/backgrounds/homepage21.png);
+    }
+
+    45% {
+        background-image: url(images/backgrounds/homepage21.png), url(images/backgrounds/homepage14.png);
     }
 
     50% {
-        background-image: url(images/backgrounds/homepage14.png), url(images/backgrounds/homepage6.png);
+        background-image: url(images/backgrounds/homepage14.png), url(images/backgrounds/homepage22.png);
+    }
+
+    55% {
+        background-image: url(images/backgrounds/homepage22.png), url(images/backgrounds/homepage6.png);
     }
 
     60% {
-        background-image: url(images/backgrounds/homepage6.png), url(images/backgrounds/homepage7.png);
+        background-image: url(images/backgrounds/homepage6.png), url(images/backgrounds/homepage23.png);
+    }
+
+    65% {
+        background-image: url(images/backgrounds/homepage23.png), url(images/backgrounds/homepage7.png);
     }
 
     70% {
-        background-image: url(images/backgrounds/homepage7.png), url(images/backgrounds/homepage15.png);
+        background-image: url(images/backgrounds/homepage7.png), url(images/backgrounds/homepage24.png);
+    }
+
+    75% {
+        background-image: url(images/backgrounds/homepage24.png), url(images/backgrounds/homepage15.png);
     }
 
     80% {
-        background-image: url(images/backgrounds/homepage15.png), url(images/backgrounds/homepage10.png);
+        background-image: url(images/backgrounds/homepage15.png), url(images/backgrounds/homepage25.png);
+    }
+
+    85% {
+        background-image: url(images/backgrounds/homepage25.png), url(images/backgrounds/homepage10.png);
     }
 
     90% {
-        background-image: url(images/backgrounds/homepage10.png), url(images/backgrounds/james2.jpg);
+        background-image: url(images/backgrounds/homepage10.png), url(images/backgrounds/homepage26.png);
+    }
+
+    95% {
+        background-image: url(images/backgrounds/homepage26.png), url(images/backgrounds/james2.jpg);
     }
 }
 
