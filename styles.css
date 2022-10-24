@@ -227,3 +227,58 @@ header ul li a.active {
     background: #1c0522;
     color: #fff;
 }
+
+.footer {
+    width: 100%;
+    height: 20vh;
+    background: #1c0522;
+}
+
+.footer img#truenorthlogo {
+    width: 6%;
+    height: auto;
+    margin-top: 5vh;
+    margin-left: 10%;
+}
+
+.footer img#ttontario {
+    width: 10%;
+    height: auto;
+}
+
+.footer img#ttcan {
+    width: 7.5%;
+    height: auto;
+}
+
+.links {
+    width: 18%;
+    background-color: #1c0522;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 43%;
+    top: -10vh;
+}
+
+.links a {
+    color: #fff;
+    font-size: 3vh;
+}
+
+.footer p {
+    color: #fff;
+    font-size: 3vh;
+}
+
+.footer p#james {
+    position: relative;
+    top: -19vh;
+    left: 70%;
+}
+
+.footer p#eric {
+    position: relative;
+    top: -19vh;
+    left: 70%;
+}
