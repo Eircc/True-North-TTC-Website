@@ -7,11 +7,11 @@ This website was created for True North Table Tennis Club, an organization lead 
 
 ## Images
 
-###Homepage
+### Homepage
 ![website homepage](https://github.com/Eircc/pingpong-repo/blob/main/images/home.PNG)
 
-###Athletes Gallery
+### Athletes Gallery
 ![athletes](https://github.com/Eircc/pingpong-repo/blob/main/images/athletes.PNG)
 
-###Contact Page
+### Contact Page
 ![contact page](https://github.com/Eircc/pingpong-repo/blob/main/images/contacts.PNG)
