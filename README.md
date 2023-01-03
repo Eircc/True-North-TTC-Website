@@ -1,3 +1,3 @@
 # Website for True North TTC
 
-By: Eric, James, and Zifan
+By: Eric Chen and James Yu
