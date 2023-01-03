@@ -1,4 +1,5 @@
-# True North TTC Website ![truenorthttc logo](https://github.com/Eircc/pingpong-repo/blob/main/images/logos/rectangle%20red%20logo.jpg)
+![truenorthttc logo](https://github.com/Eircc/pingpong-repo/blob/main/images/logos/rectangle%20red%20logo.jpg)
+# True North TTC Website 
 
 ## Description
 
