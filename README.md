@@ -2,4 +2,4 @@
 
 ## Description
 
-This website was created for True North Table Tennis Club, an organization lead by an accomplished team of coaches, consisting of many talented, high-level athletes. ![truenorthttc logo](/images/logos/rectangle_red_logo.jpg)
+This website was created for True North Table Tennis Club, an organization lead by an accomplished team of coaches, consisting of many talented, high-level athletes. ![truenorthttc logo](pingpong-repo/images/logos/rectangle_red_logo.jpg?raw=true)
