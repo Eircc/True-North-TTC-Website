@@ -12,3 +12,6 @@ Homepage
 
 Athletes Gallery
 ![athletes](https://github.com/Eircc/pingpong-repo/blob/main/images/athletes.PNG)
+
+Contact Page
+![contact page](https://github.com/Eircc/pingpong-repo/blob/main/images/contacts.PNG)
