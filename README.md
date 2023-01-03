@@ -15,3 +15,6 @@ This website was created for True North Table Tennis Club, an organization lead 
 
 ### Contact Page
 ![contact page](https://github.com/Eircc/pingpong-repo/blob/main/images/contacts.PNG)
+
+
+project finished: October 30th, 2022
